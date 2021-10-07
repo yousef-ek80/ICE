@@ -10,7 +10,7 @@ public class CardTrick {
     public static void main(String[] args)
     {
        Card newObj = new Card();
-        System.out.println(newObj);
+     
     }
     
 }
